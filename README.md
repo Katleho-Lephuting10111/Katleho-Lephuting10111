@@ -29,6 +29,18 @@ and continuously improving engineering processes.
 ## 🎓 Certifications
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
+- **AWS Cloud Technical Essentials**
+- **AWS Cloud Practitioner Essentials**
+- **DevOps on AWS: Code, Build, and Test**
+- **Microsoft Power Platform Fundamentals**
+- **Google: Introduction to Generative AI**
+- **IBM:Introduction to Data Engineering**
+- **IBM: Introduction to Containers, W/Docker, Kubernetes & Openshift**
+- **IBM: Python Project for Data Engineering**
+- **DeepLearning.AI: Generative AI with Large Language Models**
+- **Coursera: Cloud Architecture Design Patterns**
+- **Atlassian: Agile with Atlassian Jira**
+- **Atlassian: Version Control with Git**
 
 ---
 
