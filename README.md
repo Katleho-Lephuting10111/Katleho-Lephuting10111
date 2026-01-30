@@ -50,7 +50,7 @@ and continuously improving engineering processes.
 <p>
   <img title="Microsoft Azure" alt="Azure" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
   &nbsp;
-  <img title="Power Platform" alt="Power Platform" width="45" src="https://img.icons8.com/color/452/power-apps.png"/>
+  <img title="Power Platform" alt="Power Platform" width="45" src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png"/>
   &nbsp;
   <img title="Jira (Agile)" alt="Jira" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 </p>
