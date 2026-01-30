@@ -52,9 +52,8 @@ and continuously improving engineering processes.
   &nbsp;
   <img title="Power Platform" alt="Power Platform" width="45" src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png"/>
   &nbsp;
-  <img title="Jira (Agile)" alt="Jira" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-</p>
-<img title="AWS" alt="AWS" width="60" height=50 src="https://i0.wp.com/www.digitalstreetsa.com/wp-content/uploads/2021/12/aws-logo.jpg?w=1024&ssl=1"/>
+  <img title="Jira (Agile)" alt="Jira" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>;
+<img title="AWS" alt="AWS" width="60" height=50 src="https://i0.wp.com/www.digitalstreetsa.com/wp-content/uploads/2021/12/aws-logo.jpg?w=1024&ssl=1"/</p>
 
 ### **Programming & Scripting**
 <p>
