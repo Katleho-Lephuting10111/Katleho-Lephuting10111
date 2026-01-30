@@ -54,6 +54,7 @@ and continuously improving engineering processes.
   &nbsp;
   <img title="Jira (Agile)" alt="Jira" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 </p>
+<img title="AWS" alt="AWS" width="45" src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png"/>
 
 ### **Programming & Scripting**
 <p>
