@@ -3,14 +3,12 @@
 
 <p align="center">Focused on automation, resilience, and building cloud systems that just work.</p>
 
----
 
-## 🧭 Intro
+## Intro
 I'm Katleho — a Joburg-based cloud engineer who builds automated, scalable, and dependable cloud systems.
 
----
 
-## 👨‍💻 About Me
+## About Me
 I specialize in simplifying cloud infrastructure and making sure systems run smoothly behind the scenes.  
 My experience includes managing cloud environments, troubleshooting production issues, optimizing deployments,  
 and building architectures that are secure and ready to grow.
@@ -34,7 +32,7 @@ and continuously improving engineering processes.
 - **DevOps on AWS: Code, Build, and Test**
 - **Microsoft Power Platform Fundamentals**
 - **Google: Introduction to Generative AI**
-- **IBM:Introduction to Data Engineering**
+- **IBM: Introduction to Data Engineering**
 - **IBM: Introduction to Containers, W/Docker, Kubernetes & Openshift**
 - **IBM: Python Project for Data Engineering**
 - **DeepLearning.AI: Generative AI with Large Language Models**
@@ -52,8 +50,12 @@ and continuously improving engineering processes.
   &nbsp;
   <img title="Power Platform" alt="Power Platform" width="45" src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png"/>
   &nbsp;
-  <img title="Jira (Agile)" alt="Jira" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>;
-<img title="AWS" alt="AWS" width="60" height=50 src="https://i0.wp.com/www.digitalstreetsa.com/wp-content/uploads/2021/12/aws-logo.jpg?w=1024&ssl=1"/</p>
+  <img title="Jira (Agile)" alt="Jira" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+  &nbsp;
+  <img title="AWS" alt="AWS" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  &nbsp;
+  <img title="Terraform" alt="Terraform" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
+</p>
 
 ### **Programming & Scripting**
 <p>
@@ -76,11 +78,15 @@ and continuously improving engineering processes.
   <img title="PostgreSQL" alt="PostgreSQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   &nbsp;
   <img title="MongoDB" alt="MongoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  &nbsp;
+  <img title="MySQL" alt="MySQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  &nbsp;
+  <img title="DynamoDB" alt="DynamoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 </p>
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### **📱 LULA App**
 A comprehensive low-code business application built using Microsoft Power Platform.  
