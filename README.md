@@ -1,4 +1,4 @@
-<h1 align="center">Katleho Lephuting <img src="https://raw.githubusercontent.com/LarMarz/hand-emojis/main/dark-waving.png" width="38"/></h1>
+<h1 align="center">Katleho Lephuting </h1>
 <h3 align="center">Cloud Engineer | Automation Specialist | Systems Builder</h3>
 
 <p align="center">Focused on automation, resilience, and building cloud systems that just work.</p>
