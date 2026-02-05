@@ -84,31 +84,6 @@ and continuously improving engineering processes.
   <img title="DynamoDB" alt="DynamoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 </p>
 
----
-
-## Selected Projects
-
-### **📱 LULA App**
-A comprehensive low-code business application built using Microsoft Power Platform.  
-It integrates:
-- SQL database operations  
-- Python data engineering  
-- Power BI analytics  
-
-**Tech Stack:** Azure | Python | React | SQL  
-
-🔗 *View Code*  
-🔗 *Live Demo*
-
----
-
-### **🤖 AI-Assistant**
-A web-based tool that automatically generates professional content such as bios and About Me sections.
-
-**Tech Stack:** Azure AI | Node.js | Vue.js | MongoDB  
-
-🔗 *View Code*  
-🔗 *Live Demo*
 
 ---
 
